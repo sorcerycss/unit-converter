@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    font-family: 'Inter', serif;
+    text-align: center;
+}
+
+/* Layout */
+
+.container {
+    max-width: ;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.top-section {
+    background: #6943FF;
+    padding: 3em 0;
+}
+
+.body-section {
+    background: #1F2937;
+    padding: 2em 0;
+}
+
+.conversion {
+    background: #273549;
+    padding: .25em;
+    margin-bottom: 24px;
+}
+
+/* Typography */
+
+h1 {
+    color: #ffffff;
+    font-size: 1.75rem;
+    font-weight: 800;
+    line-height: 1.5;
+    letter-spacing: -1px;
+    margin: 0;
+    margin-top: -24px;
+}
+
+h3 {
+    color: #CCC1FF;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+p {
+    color: #FFFFFF;
+    font-size: .875rem;
+    font-weight: 400;
+}
+
+/* Input field */
+
+#input-el {
+    color: #ffffff;
+    background: #6943FF;
+    border: 2px solid #B295FF;
+    font-size: 3.625rem;
+    font-weight: 800;
+    text-align: center;
+    width: 117px;
+    height: 83px;
+    margin-top: .25em;
+}
+
+/* Button */
+
+.btn {
+    display: block;
+    margin: 0 auto;
+    margin-top: 1.75em;
+    background: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 1em 2em;
+    color: #3D3D3D;
+    font-size: 1rem;
+}
